@@ -10,8 +10,8 @@
 Sou uma estudante **autodidata** de Tecnologia. Meu objetivo é aprender a desenvolver sistemas, aplicativos e soluções web completas para resolver problemas reais, combinando **Desenvolvimento Web** e **Cibersegurança**.
 
 - 🎓 **Capacitação:** Estudante de Cibersegurança no Programa "JA - Mulher Digital"
-- 🎯 **Foco atual:** Criação de páginas, sites dinâmicos e lojas virtuais (Front-end & E-commerce)
 - 🚀 **Trilha de aprendizado:** Lógica de programação, HTML, CSS, JavaScript e redes/segurança
+- 🎯 **Foco atual:** Criação de páginas, sites dinâmicos e lojas virtuais (Front-end & E-commerce)
 - 💡 Aprendendo de forma autônoma e aplicando os conhecimentos em projetos práticos
 
 ---
